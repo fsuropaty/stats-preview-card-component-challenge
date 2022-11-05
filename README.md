@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontendmentor.io](https://your-solution-url.com)
-- Live Site URL: [fsuropaty.github.io](https://your-live-site-url.com)
+- Solution URL: [Frontendmentor.io](https://www.frontendmentor.io/solutions/stats-preview-card-component-using-html-css-bH8XiJiik3)
+- Live Site URL: [fsuropaty.github.io](https://fsuropaty.github.io/stats-preview-card-component-challenge/)
 
 ## My process
 

@@ -71,19 +71,26 @@ span {
   line-height: 1.7;
 }
 
-.stats {
+.stats-section {
   font-size: small;
   margin-top: 4em;
+  text-align: center;
 }
 
-.stats h2 {
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.stats {
   color: white;
   font-family: "Inter";
+  font-weight: bold;
   font-size: x-large;
   margin-bottom: 0;
 }
 
-.stats p {
+.category {
   color: var(--Slightly-transparent-white-2);
   font-family: "Lexend Deca";
   text-transform: uppercase;
@@ -95,7 +102,6 @@ span {
   font-family: "Inter";
   text-align: center;
   position: relative;
-  bottom: 3rem;
 }
 
 .attribution a {
@@ -125,27 +131,28 @@ span {
   .description {
     text-align: left;
     margin: 4rem;
-    padding: 0 3rem 0 0;
   }
 
   h1 {
     font-size: 2.5rem;
+    margin-top: 0;
   }
 
   .desc p {
     font-size: large;
   }
 
-  .stats {
+  ul {
     display: flex;
     gap: 5rem;
   }
 
-  .stats p {
+  .category {
     margin: 0.5em 0em 0em 0em;
   }
 
   .attribution {
+    position: absolute;
     bottom: 5rem;
   }
 }
